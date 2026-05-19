@@ -100,12 +100,12 @@ aria-label = play video
 
 #---------- PRODUCT ----------#
 
-Popular Products
+Productos Populares
 
-All Products
-Accessory
-Decoration
-Furniture
+Todos Los Productos
+Ceramica Andina
+Decoracion
+Textiles
 
 filter = decoration
 alt = Animi Dolor Pariatur
