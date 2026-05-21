@@ -86,9 +86,11 @@ Furniture
 
 #---------- ABOUT ----------#
 
-Woodex Store
+Arte Peruano
 
-When you start with a portrait and search for a pure form, a clear volume, through successive eliminations, you arrive inevitably at the egg. Likewise, starting with the egg and following the same process in reverse, one finishes with the portrait.
+    La artesanía peruana refleja la historia, tradición y creatividad de nuestros pueblos andinos. 
+    Cada pieza hecha a mano conserva técnicas ancestrales transmitidas de generación en generación, 
+    manteniendo viva la identidad cultural del Perú. 
 
 alt = Woodex promo
 
